@@ -1,0 +1,26 @@
+.metadata/
+.metals/
+**metals.sbt
+*.class
+*.log
+logs/
+*.iml
+
+# sbt specific
+.idea/
+.cache
+.history
+.lib/
+dist/*
+target/
+target-*/
+project/boot/
+project/plugins/project/
+sbt-launch.jar
+sbt-launch*.jar
+
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+
+.DS_Store
