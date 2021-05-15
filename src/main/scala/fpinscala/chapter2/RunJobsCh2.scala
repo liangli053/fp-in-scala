@@ -6,7 +6,7 @@ object RunJobsCh2 {
   def main(args: Array[String]): Unit = {
     println("*******************")
     println("answer to exercise 2.1:")
-    for (i <- 0 to 10) println(fib(i))
+    for (i <- 0 to 7) println(fib(i))
 
     println("*******************")
     println("answer to exercise 2.2:")
